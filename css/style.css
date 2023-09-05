@@ -268,8 +268,8 @@ body{
     font-size: 20px;
     color: #00ADB5;
     background-color: #fff;
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 55px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -281,10 +281,14 @@ body{
 }
 .project1 .slider-Photo h5{
     font-weight: bold;
-    
+
 }
 .project1 .slider-Photo h5,p{
     color: #FFF;
+}
+.progect-pargr{
+    color: #6c757d;
+    text-align: center;
 }
 
 
