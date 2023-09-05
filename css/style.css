@@ -159,6 +159,7 @@ body{
     float: left;
     margin-bottom: 5rem !important;
     text-align: center;
+    height: 350px;
 }
 .wrapper1 .section-heading h2{
     text-align: center;
@@ -265,7 +266,6 @@ body{
 }
 .project1 .slider-Photo  i{
     font-size: 20px;
-    margin-top: 20px;
     color: #00ADB5;
     background-color: #fff;
     width: 60px;
