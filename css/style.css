@@ -211,7 +211,6 @@ body{
     left: 110%;
 }
 /*                                                                 */
-
 #projects{
     background-color:#F7F7F7;
     margin-top: 50px;
@@ -236,12 +235,12 @@ body{
     position: relative;
     /* border: rgb(73, 65, 65) 3px solid; */
     box-shadow:10px 10px 10px  rgba(0,0,0,0.5);
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
     overflow: hidden; 
 }
 .project1 img{
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
     transition: all 1s ;
 }
