@@ -128,7 +128,14 @@ body{
 .photo:hover .sliderPhoto{
     opacity: 1;
 }
+.about-mee{
+    
 
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    
+}
 .About-caption p{
  color: #6c757d;
 }
