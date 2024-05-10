@@ -344,3 +344,85 @@ body{
     border: 1px solid #fff;
     transition: all 1s;
 }
+
+
+/*media query*/
+@media screen and (max-width:600px){
+    nav button{
+        background-color: #c8bdbd !important;
+    }
+    nav ul{
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.4) ;
+    }
+    .photoMedia{
+    width: 100%;
+    }
+    .captionMedia{
+        width: 100%;
+        text-align: center;
+    }
+    .KnowledgeMedia{
+        width: 100%;
+    }
+    .projectsMedia{
+        width: 100%;
+    }
+    .contactMedia{
+        width: 100%;
+    }
+    .contactMedia2{
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width:601px) and (max-width:768px){
+    nav button{
+        background-color: #c8bdbd !important;
+    }
+    nav ul{
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.4) ;
+    }
+    .photoMedia{
+    width: 100%;
+    }
+    .captionMedia{
+        width: 100%;
+        text-align: center;
+    }
+    .KnowledgeMedia{
+        width: 100%;
+    }
+    .projectsMedia{
+        width: 100%;
+    }
+    .contactMedia{
+        width: 100%;
+    }
+    .contactMedia2{
+        width: 100%;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    .KnowledgeMedia{
+        width: 100%;
+    }
+    .projectsMedia{
+        width: 50%;
+    }
+    nav button{
+        background-color: #c8bdbd !important;
+    }
+    nav ul{
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.4) ;
+
+    }
+
+  
+}
+@media screen and (min-width:993px) and (max-width:1200px) {
+
+}
